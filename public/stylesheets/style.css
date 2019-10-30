@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.inlog {
+  display: inline;
+}
+
+.mail-frm {
+  margin-bottom: 5px;
+  padding: 5px;
+  font-size: 18px;
+}
+
+.txt {
+  font-size: 45px;
+}
